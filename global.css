@@ -42,7 +42,7 @@
     
 p   {
     color: var(--gray-400);
-    width: 56%;
+    width: 49%;
     font-weight: 100;
     margin: 0 auto;
     padding-top: 20px;
@@ -50,6 +50,13 @@ p   {
     .red {
         color: var(--red);
     }
+}
+header {
+    margin-bottom: 80px;
+    gap: 8px;
+}
+.avatar{
+    margin-bottom: 56px;
 }
 .vector {
     display: flex;
@@ -98,7 +105,6 @@ nav {
     font-weight: 500;
     transition: all 0.3s ease-in-out; 
 }
-
 .skill-item img {
     width: 24px; 
     height: 24px;
@@ -177,6 +183,12 @@ span {
     text-align: center;
     justify-content: center;
     flex-direction: column;
+}
+.contact-head {
+    display: flex;
+    flex-direction: column;
+    margin: 48px;
+    gap: 8px;
 }
 ul {
     font-family: var(--font-tertiary);

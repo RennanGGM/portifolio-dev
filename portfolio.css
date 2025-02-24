@@ -11,6 +11,10 @@
         color: var(--red);
     } 
 }
+.portfolio-head {
+    margin-top: 72px;
+    gap: 8px;
+}
 .wrapper {
     display: grid;
     max-width: 100%;
