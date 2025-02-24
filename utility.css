@@ -1,0 +1,29 @@
+.text-lg {
+    font: var(--text-lg);
+    color: var(--gray-600);
+    font-weight: 700;
+}
+.text-sm {
+    font: var(--text-sm);
+}
+.text-color {
+    font: var(--name-color); 
+}
+.title-md {
+    font: var(--title-md)
+}
+.text-md-maven {
+    font: var(--text-md-maven);
+}
+.text-sm-maven {
+    font: var(--text-sm-maven);
+}
+.grid {
+    display: grid;
+}
+.grid-cols-3 {
+    grid-template-columns:repeat(3, 1fr);
+}
+.text-color-purple {
+    color: var(--purple);
+}
