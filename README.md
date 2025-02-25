@@ -45,7 +45,8 @@ Caso queira entrar em contato, você pode me encontrar no:
 - [E-mail](rennanggmdev@gmail.com)
 
 
-![Design sem nome (3)](https://github.com/user-attachments/assets/ecbcbe7e-26ea-4aa2-abd4-28741e5d958a)
+![Design sem nome (4)](https://github.com/user-attachments/assets/6be96ee0-6db5-4cbd-b9a6-1f80101d93a8)
+
 
 
 Este portfólio está em constante evolução! Qualquer sugestão é bem-vinda. 
