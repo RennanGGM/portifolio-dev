@@ -30,19 +30,19 @@
         background-color: var(--gray-300);
         column-gap: 32px;
         border-radius: 12px;  
+        padding: 16px;
 
         p {
             display: flex;
             text-align: left;
             font: var(--text-sm-maven);
             color: var(--gray-500);
-            margin: 4px 16px 16px;
+            margin-top: 8px;
         }
     }
     img{
         width: 100%;
-        border-radius: 18px;
-        padding: 12px;
-        padding-bottom: 24px;
+        border-radius: 8px;
+        margin-bottom: 12px;
     }
 }
